@@ -15,14 +15,12 @@ This project is a full data pipeline that showcases stock market data extraction
    Used `yfinance` to download historical data of selected NIFTY 50 stocks.
 
 2. **Store in SQL**  
-   Pushed the data into SQLite (can be switched to MySQL). Tables include daily OHLCV data.
+   Pushed the data into SQLite (can be switched to MySQL).
 
 3. **Query the Data**  
    Wrote SQL queries to find:
    - Top-performing stocks by return %
-   - Average daily return
-   - Volatility (standard deviation)
-   - Volume comparisons
+
 
 4. **Visualize in Power BI**  
    Built a Power BI dashboard with:
@@ -38,13 +36,12 @@ This project is a full data pipeline that showcases stock market data extraction
 
 | Dashboard Overview | SQL Data View |
 |--------------------|---------------|
-| ![Dashboard](screenshots/dashboard.png) | ![SQL](screenshots/sql_data.png) |
+| ![Dashboard](POWER_BI_SS1.png) | ![SQL](MY_SQL.png) |
 
 ---
 
 ## 📁 Files Included
 - `data_download.py` – Python script to pull stock data from Yahoo Finance  
-- `store_to_sql.py` – Store the data in SQL (SQLite or MySQL)  
 - `stock_queries.sql` – SQL queries for analysis  
 - `dashboard.pbix` – Power BI Dashboard file  
 - `/screenshots/` – Dashboard screenshots  
