@@ -36,7 +36,7 @@ This project is a full data pipeline that showcases stock market data extraction
 
 | Dashboard Overview | SQL Data View |
 |--------------------|---------------|
-| ![Dashboard]([ALL PNGS & ALL PNGS & VIDEO/POWER_BI_SS1.png/POWER_BI_SS1.png](https://github.com/prajwal6686/Stock-Analytics-Dashboard/blob/37f6d32f1db1767fab577fff570022dbd0049681/ALL%20PNGS%20%26%20VIDEO/POWER_BI_SS1.png)) | ![SQL](https://github.com/prajwal6686/Stock-Analytics-Dashboard/blob/37f6d32f1db1767fab577fff570022dbd0049681/ALL%20PNGS%20%26%20VIDEO/MY_SQL.png) |
+| ![Dashboard]([ALL PNGS & ALL PNGS & VIDEO/POWER_BI_SS1.png/POWER_BI_SS1.png](https://github.com/prajwal6686/Stock-Analytics-Dashboard/blob/37f6d32f1db1767fab577fff570022dbd0049681/ALL%20PNGS%20%26%20VIDEO/POWER_BI_SS1.png) | ![SQL](https://github.com/prajwal6686/Stock-Analytics-Dashboard/blob/37f6d32f1db1767fab577fff570022dbd0049681/ALL%20PNGS%20%26%20VIDEO/MY_SQL.png) |
 
 ---
 
