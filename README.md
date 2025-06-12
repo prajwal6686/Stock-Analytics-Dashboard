@@ -34,9 +34,6 @@ This project is a full data pipeline that showcases stock market data extraction
 ## 📷 Screenshots
 *(Add your actual screenshots below)*
 
-| Dashboard Overview | SQL Data View |
-|--------------------|---------------|
-| ![Dashboard](POWER_BI_SS1.png) | ![SQL](MY_SQL.png) |
 
 ---
 
